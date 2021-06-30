@@ -1,0 +1,3 @@
+# MyApp
+
+Simple Firebase app
